@@ -2427,3 +2427,9 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+
+#### Name: [Ramón Salado](https://github.com/ramsal)
+- Place: Seville, Spain
+- Bio: Hacking
+- GitHub: [ramsal](https://github.com/ramsal)
